@@ -1,6 +1,7 @@
 @media only screen and (max-width: 600px){
     .center-upper h1 {
         font-size: 1.9rem  ;
+        text-decoration: none;
 
     }
     .center-upper p{
